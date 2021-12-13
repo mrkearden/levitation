@@ -1,0 +1,9 @@
+! ----- names for bodies -----
+$ ball = 1
+$ left = 2
+$ right = 3
+$ body4 = 4
+! ----- names for boundaries -----
+$ Group_1 = 1
+$ ball = 2
+$ Group_2 = 3

@@ -1,0 +1,30 @@
+!------ Skeleton for body section -----
+Body 1
+  Name = ball
+End
+
+Body 2
+  Name = left
+End
+
+Body 3
+  Name = right
+End
+
+Body 4
+  Name = body4
+End
+
+!------ Skeleton for boundary section -----
+Boundary Condition 1
+  Name = Group_1
+End
+
+Boundary Condition 2
+  Name = ball
+End
+
+Boundary Condition 3
+  Name = Group_2
+End
+
